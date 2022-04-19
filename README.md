@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vpabloo
-- 👀 I’m interested in MongoDB, Arduino, JS
-- 🌱 I’m currently learning MongoDB, JS
-- 💞️ I’m looking to collaborate on Weather projetcts
+- 👀 I’m interested in MongoDB, MySQL, MSSQL, Python, Django, Arduino
+- 🌱 I’m currently learning Django, Python, MongoDB
+- 💞️ I’m looking to collaborate on Weather, Python or Big Data projetcts
 - 📫 How to reach me...
 
 <!---
